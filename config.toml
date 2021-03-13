@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://www.example.com"
-title = "Persian"
+baseURL = "/"
+title = "Luna Ranjit"
 theme = "persian-hugo"
 languageName = "En"
 languageCode = "en-us"
@@ -69,7 +69,7 @@ weight = 5
 logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Luna Ranjit"
 # search  
 search = true
 # contact form action
