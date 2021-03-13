@@ -16,7 +16,7 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/post
+  path: content/post
   label: Post
   create: documents
   match: "**/*"
@@ -25,18 +25,18 @@ sections:
 - type: heading
   label: Others Page
 - type: document
-  path: exampleSite/content/about/_index.md
+  path: content/about/_index.md
   label: About
 - type: document
-  path: exampleSite/content/contact/_index.md
+  path: content/contact/_index.md
   label: Contact
 - type: document
-  path: exampleSite/content/privacy-policy/_index.md
+  path: content/privacy-policy/_index.md
   label: Privacy Policy
 - type: heading
   label: Configuration
 - type: directory
-  path: exampleSite
+  path: ''
   label: Configuration
   create: all
   match: "*.toml"
