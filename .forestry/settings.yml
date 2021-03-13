@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/author
+  path: content/author
   label: Authors
   create: documents
   match: "**/*"
