@@ -11,6 +11,8 @@ sections:
   label: Authors
   create: documents
   match: "**/*"
+  templates:
+  - author
 - type: heading
   label: Blog Post
 - type: directory
