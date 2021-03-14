@@ -1,15 +1,24 @@
 ---
-title: "Writer. Educator. Organizer. "
+title: I write across and between boundaries of personal and political, state and
+  society, US and Nepal, poetry and prose.
 description: This is meta description.
-type: "menu"
+type: menu
+
 ---
+“[Memory](https://aaww.org/memory/),” The Margins (A World Without Cages), Asian American Writers Workshop 
 
-Luna is a writer and organizer, and a former nonprofit executive. She explores intersecting issues of social justice with a transnational lens, focusing on race, caste, class, and gender. She currently lives between NYC and Kathmandu.
+“[Sacred Time](https://rubinmuseum.org/spiral/morning-rituals-from-near-and-far),” Spiral Magazine, Rubin Museum
 
-<br>
+“[Long Distance Mourning](https://www.fiveminutelit.com/five-minutes/long-distance-mourning),” Five Minute Literature 
 
-As a co-founder and executive director of Adhikaar, she guided programs, research, policy advocacy, and partnerships, building visibility and power for the emerging Nepali-speaking immigrant community for more than a decade. Under her leadership, Adhikaar served thousands of immigrant workers, and brought their voices to change laws, including the NY State Domestic Workers Bill of Rights and the International Convention on Domestic Workers. As a co-founder of the New York Healthy Nail Salons Coalition, she helped lead the way for the sweeping changes to improve working conditions in the nail salon industry. She also served on the advisory board of the National Healthy Nail and Beauty Salons Alliance.
+“Home,” “Waiting to Exhale,” “Hole in my Heart,” “Taste of Freedom,” Newtown Literary
 
-<br>
+“[प्रतिरोध बोल्छ मेरो उपनिवेशित जिब्रो](https://ekantipur.com/koseli/2020/11/28/160653241034546305.html),” Koseli 
 
-Luna has written about and been featured in print and broadcast media on the issues related to workers’ rights, migrant rights, language justice, and racial justice. Her groundbreaking work has been recognized by many community organizations and elected officials. In 2016, she received the Grinnell College Innovator for Social Justice Prize created to support and inspire innovative social change makers throughout the world. <br>
+“[Year of Buying Nothing](https://lunaranjit.medium.com/year-of-buying-nothing-except-the-essentials-c6548ea0122e),” Medium 
+
+“[Indebted Immigrant](https://lunaranjit.medium.com/indebted-immigrant-6356265ed5aa),” Medium 
+
+“[Childfree...by choice](https://lunaranjit.medium.com/childfree-by-choice-3b8cac3f6e4b),” Medium
+
+Read additional essays and poems on Medium ([lunaranjit.medium.com]())
