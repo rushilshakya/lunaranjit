@@ -28,6 +28,10 @@ sections:
   path: content/about/_index.md
   label: About
 - type: document
+  path: content/write/_index.md
+  label: Writing
+  match: "**/*"
+- type: document
   path: content/contact/_index.md
   label: Contact
 - type: document
