@@ -19,6 +19,10 @@ type: menu
 
 “[**प्रतिरोध बोल्छ मेरो उपनिवेशित जिब्रो**](https://ekantipur.com/koseli/2020/11/28/160653241034546305.html),” Koseli
 
+"**First Timer: Why I Must Vote As a U.S. Citizen**," Women's eNews
+
+"**After Reforms, Why Are Nail Salon Workers Not Seeing Swift Justice?**" Truthout
+
 “[**Year of Buying Nothing**](https://lunaranjit.medium.com/year-of-buying-nothing-except-the-essentials-c6548ea0122e),” Medium
 
 “[**Indebted Immigrant**](https://lunaranjit.medium.com/indebted-immigrant-6356265ed5aa),” Medium
