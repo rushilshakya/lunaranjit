@@ -35,6 +35,14 @@ sections:
   label: Organizing
   match: "**/*"
 - type: document
+  path: content/speak/_index.md
+  label: Speaking
+  match: "**/*"
+- type: document
+  path: content/consult/_index.md
+  label: Consulting
+  match: "**/*"
+- type: document
   path: content/contact/_index.md
   label: Contact
 - type: document
