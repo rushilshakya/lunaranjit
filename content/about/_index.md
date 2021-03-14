@@ -4,22 +4,13 @@ image: images/author.jpg
 description: This is meta description.
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
+Luna is a writer and organizer, and a former nonprofit executive. She explores intersecting issues of social justice with a transnational lens, focusing on race, caste, class, and gender. She currently lives between NYC and Kathmandu.
 
 <br>
 <br>
 
 ## My Education
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
 
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Hobbies
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
 
 * Et ipsum euismod et aenean duis.
@@ -30,6 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna jus
 <br>
 
 ## My Experiences
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
 
 1. Et ipsum euismod et aenean duis.
