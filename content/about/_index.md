@@ -1,6 +1,6 @@
 ---
 title: Writer
-image: images/author.jpg
+image: images/lr_headshot.JPG
 description: This is meta description.
 
 ---
