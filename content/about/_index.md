@@ -1,5 +1,7 @@
 ---
-title: Writer
+title: Luna is a writer and organizer, and a former nonprofit executive. She explores
+  intersecting issues of social justice with a transnational lens, focusing on race,
+  caste, class, and gender. She currently lives between NYC and Kathmandu.
 image: images/lr_headshot.JPG
 description: This is meta description.
 
