@@ -25,6 +25,6 @@ type: menu
 
 “[Childfree...by choice](https://lunaranjit.medium.com/childfree-by-choice-3b8cac3f6e4b),” Medium
 
-Read additional essays and poems on Medium ([**lunaranjit.medium.com**]())
+<br>
 
-To receive sporadic news and updates, please [**share your email**](http://tinyletter.com/LunaRanjit).
+Read additional essays and poems on Medium ([**lunaranjit.medium.com**]()). To receive sporadic news and updates, please [**share your email**](http://tinyletter.com/LunaRanjit).
