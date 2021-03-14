@@ -23,7 +23,7 @@ sections:
   templates:
   - post
 - type: heading
-  label: Others Page
+  label: Other Pages
 - type: document
   path: content/about/_index.md
   label: About
@@ -33,15 +33,12 @@ sections:
 - type: document
   path: content/organize/_index.md
   label: Organizing
-  match: "**/*"
 - type: document
   path: content/speak/_index.md
   label: Speaking
-  match: "**/*"
 - type: document
   path: content/consult/_index.md
   label: Consulting
-  match: "**/*"
 - type: document
   path: content/contact/_index.md
   label: Contact
