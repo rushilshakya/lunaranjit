@@ -7,6 +7,8 @@ type: menu
 ---
 ### Selected Writing
 
+<br>
+
 “[Memory](https://aaww.org/memory/),” The Margins (A World Without Cages), Asian American Writers Workshop 
 
 “[Sacred Time](https://rubinmuseum.org/spiral/morning-rituals-from-near-and-far),” Spiral Magazine, Rubin Museum
@@ -25,4 +27,4 @@ type: menu
 
 Read additional essays and poems on Medium ([lunaranjit.medium.com]())
 
-To receive sporadic news and updates, please [share your email](http://tinyletter.com/LunaRanjit). 
+To receive sporadic news and updates, please [**share your email**](http://tinyletter.com/LunaRanjit). 
