@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: content/organize/_index.md
-  label: Organizing
-  match: "**/*"
 - type: heading
   label: Author
 - type: directory
@@ -34,6 +30,10 @@ sections:
 - type: document
   path: content/write/_index.md
   label: Writing
+- type: document
+  path: content/organize/_index.md
+  label: Organizing
+  match: "**/*"
 - type: document
   path: content/contact/_index.md
   label: Contact
