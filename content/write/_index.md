@@ -1,6 +1,6 @@
 ---
 title: I write across and between boundaries of personal and political, state and
-  society, US and Nepal, poetry and prose.
+  society, United States and Nepal, poetry and prose.
 description: This is meta description.
 type: menu
 
