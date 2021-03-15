@@ -1,5 +1,5 @@
 ---
-title: Taking up the mic and passing it on.
+title: Grabbing the mic and passing it on.
 description: This is meta description.
 type: menu
 

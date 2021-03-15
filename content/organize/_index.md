@@ -5,7 +5,7 @@ description: This is meta description.
 type: menu
 
 ---
-## **Learn more**
+## **Issues**
 
 Workers' Rights
 
