@@ -8,6 +8,8 @@ type: menu
 
 ### **Public Events**
 
+<br>
+
 **महिलाका आँखामा दलित महिलाका संघर्ष** (2020), _Martin Chautari & Dalit Reader_
 
 **Power and Patriarchy** (2019), _Kantipur Conclave_
@@ -27,5 +29,7 @@ type: menu
 **Forum on a Groundbreaking New Treaty to Protect Domestic Workers Worldwide** (2011), _Open Society Foundations_
 
 ### **Radio, Podcasts, Television**
+
+**<br>**
 
 **Time to Say Goodbye podcast** (2021)
