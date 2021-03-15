@@ -6,9 +6,9 @@ type: menu
 ---
 ## Selected speaking engagements
 
-### **Public Events**
-
 <br>
+
+### **Public Events**
 
 **महिलाका आँखामा दलित महिलाका संघर्ष** (2020), _Martin Chautari & Dalit Reader_
 
@@ -28,8 +28,8 @@ type: menu
 
 **Forum on a Groundbreaking New Treaty to Protect Domestic Workers Worldwide** (2011), _Open Society Foundations_
 
-### **Radio, Podcasts, Television**
-
 **<br>**
+
+### **Radio, Podcasts, Television**
 
 **Time to Say Goodbye podcast** (2021)
