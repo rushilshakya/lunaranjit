@@ -1,15 +1,31 @@
 ---
-title: "Writer. Educator. Organizer. "
+title: Taking up the mic and passing it on.
 description: This is meta description.
-type: "menu"
+type: menu
+
 ---
+## Selected speaking engagements
 
-Luna is a writer and organizer, and a former nonprofit executive. She explores intersecting issues of social justice with a transnational lens, focusing on race, caste, class, and gender. She currently lives between NYC and Kathmandu.
+### **Public Events**
 
-<br>
+**महिलाका आँखामा दलित महिलाका संघर्ष** (2020), _Martin Chautari & Dalit Reader_
 
-As a co-founder and executive director of Adhikaar, she guided programs, research, policy advocacy, and partnerships, building visibility and power for the emerging Nepali-speaking immigrant community for more than a decade. Under her leadership, Adhikaar served thousands of immigrant workers, and brought their voices to change laws, including the NY State Domestic Workers Bill of Rights and the International Convention on Domestic Workers. As a co-founder of the New York Healthy Nail Salons Coalition, she helped lead the way for the sweeping changes to improve working conditions in the nail salon industry. She also served on the advisory board of the National Healthy Nail and Beauty Salons Alliance.
+**Power and Patriarchy** (2019), _Kantipur Conclave_
 
-<br>
+**Does Digital Technology Build or Break Movements?** (2018), _Grinnell College, Wilson Center_
 
-Luna has written about and been featured in print and broadcast media on the issues related to workers’ rights, migrant rights, language justice, and racial justice. Her groundbreaking work has been recognized by many community organizations and elected officials. In 2016, she received the Grinnell College Innovator for Social Justice Prize created to support and inspire innovative social change makers throughout the world. <br>
+**This Bridge Called My Back: Women of Color and the Fight for Economic Security** (2015), _Women’s City Club of New York & Safety Net Project, Urban Justice Center_
+
+**Spotlight on Forced Labor: Human Trafficking Panel** (2015; 2013), _South Asian Bar Association of NY_
+
+**Organizing Workers through Language Access and Literacy Challenges** (2015), _Long Island Language Advocates Coalition_
+
+**Labor and Global Solidarity Mini-Conference – Keynote Speaker** (2013), _Murphy Institute for Worker Education_
+
+**The Myth of the American Dream for Nepali-speaking Immigrants in USA** (2013), _Martin Chautari, Kathmandu_
+
+**Forum on a Groundbreaking New Treaty to Protect Domestic Workers Worldwide** (2011), _Open Society Foundations_
+
+### **Radio, Podcasts, Television**
+
+**Time to Say Goodbye podcast** (2021)
