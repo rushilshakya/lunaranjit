@@ -33,3 +33,7 @@ type: menu
 ### **Radio, Podcasts, Television**
 
 **Time to Say Goodbye podcast** (2021)
+
+[**Nepal Earthquake Relief**]() (2015), _BrianLehrer.tv_
+
+[**The Road to Minimum Wage**](https://www.wnyc.org/story/199041-road-minimum-wage/) (2012), _The Brian Lehrer Show, WNYC_
