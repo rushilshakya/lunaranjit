@@ -32,7 +32,9 @@ type: menu
 
 ### **Radio, Podcasts, Television**
 
-**Time to Say Goodbye podcast** (2021)
+**Essential Work, Mutual Aid & Nepal** (2021), _Time to Say Goodbye_
+
+[**Memories of Migration**]() (2019), _Queens Memory Podcast_
 
 [**Nepal Earthquake Relief**]() (2015), _BrianLehrer.tv_
 
