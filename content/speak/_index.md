@@ -40,4 +40,6 @@ Public events, conferences, and classes at various educational institutions, inc
 
 [**Nepal Earthquake Relief**]() (2015), _BrianLehrer.tv_
 
+[**What Is Organizing**](https://www.youtube.com/watch?v=l65i0sFulcI) (2015), In Their Own Words, New York Foundation
+
 [**The Road to Minimum Wage**](https://www.wnyc.org/story/199041-road-minimum-wage/) (2012), _The Brian Lehrer Show, WNYC_
