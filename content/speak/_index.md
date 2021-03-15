@@ -42,4 +42,40 @@ Public events, conferences, and classes at various educational institutions, inc
 
 [**What Is Organizing**](https://www.youtube.com/watch?v=l65i0sFulcI) (2015), In Their Own Words, New York Foundation
 
+[**Immigration Reform Bill: Where Do We Stand?**](https://www.youtube.com/watch?v=7Ll6EO6GepM) (2014), Sampreshan 
+
 [**The Road to Minimum Wage**](https://www.wnyc.org/story/199041-road-minimum-wage/) (2012), _The Brian Lehrer Show, WNYC_
+
+<br>
+
+### Print
+
+Nepali Women in Queens Challenge Tradition, Taking Lead With Quake Aid, The New York Times (2015)
+
+Editorial: Justice for Nail Salon Workers, The New York Times (2015)
+
+How Can You Get an Ethical Manicure? Support Worker Organizing, The Nation (2015)
+
+4 Tips on How to Get an Ethical Manicure, Allure Magazine (2015)
+
+‘This only happened because people organized.’ Nail salon workers speak out after NYT exposé, Fusion.net (2015)
+
+When It Comes to Wage Abuses, It’s Not Just the Nail Salons, The New York Times (2015)
+
+Organizing the Unorganizable, Dissent Magazine (2015)
+
+Conversation with 25 Leaders in Action: Luna Ranjit, AAPIP (2015)
+
+Adhikaar: From Knowledge to Action, Dream Magazine (2014)
+
+Nepali immigrants pushing for better working conditions at city's nail salons, New York Daily News (2012)
+
+Domestic Workers Look to Extend Gains, Truthout (2012)
+
+Is the ‘$1.5 Million Maid’ an Isolated Case? New York Times (2012)
+
+The New Domestic Order: Passage of a "Bill of Rights" in New York would be a promising win for a growing movement, The Nation (2009)
+
+A helping hand for Nepali women new to New York, New York Daily News (2008)
+
+For a People Overlooked, a Lens at Last, The New York Times (2007)
