@@ -28,7 +28,7 @@ type: menu
 
 **Forum on a Groundbreaking New Treaty to Protect Domestic Workers Worldwide** (2011), _Open Society Foundations_
 
-Public events, conferences, and classes at various educational institutions, including CUNY, NYU, Grinnell College, Princeton University, Ramapo College, and Cornell University. 
+Public events, conferences, and classes at various educational institutions, including CUNY, NYU, Grinnell College, Princeton University, Ramapo College, and Cornell University.
 
 **<br>**
 
@@ -42,7 +42,7 @@ Public events, conferences, and classes at various educational institutions, inc
 
 [**What Is Organizing**](https://www.youtube.com/watch?v=l65i0sFulcI) (2015), In Their Own Words, New York Foundation
 
-[**Immigration Reform Bill: Where Do We Stand?**](https://www.youtube.com/watch?v=7Ll6EO6GepM) (2014), Sampreshan 
+[**Immigration Reform Bill: Where Do We Stand?**](https://www.youtube.com/watch?v=7Ll6EO6GepM) (2014), Sampreshan
 
 [**The Road to Minimum Wage**](https://www.wnyc.org/story/199041-road-minimum-wage/) (2012), _The Brian Lehrer Show, WNYC_
 
@@ -78,4 +78,4 @@ The New Domestic Order: Passage of a "Bill of Rights" in New York would be a pro
 
 A helping hand for Nepali women new to New York, New York Daily News (2008)
 
-For a People Overlooked, a Lens at Last, The New York Times (2007)
+[For a People Overlooked, a Lens at Last](https://www.nytimes.com/2007/04/29/nyregion/thecity/29stre.html), _The New York Times_ (2007)
