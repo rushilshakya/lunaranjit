@@ -28,6 +28,8 @@ type: menu
 
 **Forum on a Groundbreaking New Treaty to Protect Domestic Workers Worldwide** (2011), _Open Society Foundations_
 
+Public events, conferences, and classes at various educational institutions, including CUNY, NYU, Grinnell College, Princeton University, Ramapo College, and Cornell University. 
+
 **<br>**
 
 ### **Radio, Podcasts, Television**
