@@ -4,7 +4,7 @@ description: This is meta description.
 type: menu
 
 ---
-## Selected speaking engagements
+## **Selected speaking engagements**
 
 <br>
 
@@ -48,7 +48,7 @@ Public events, conferences, and classes at various educational institutions, inc
 
 <br>
 
-### Print
+### **Print**
 
 Nepali Women in Queens Challenge Tradition, Taking Lead With Quake Aid, The New York Times (2015)
 
@@ -64,7 +64,7 @@ When It Comes to Wage Abuses, It’s Not Just the Nail Salons, The New York Time
 
 Organizing the Unorganizable, Dissent Magazine (2015)
 
-Conversation with 25 Leaders in Action: Luna Ranjit, AAPIP (2015)
+Conversation with 25 Leaders in Action, AAPIP (2015)
 
 Adhikaar: From Knowledge to Action, Dream Magazine (2014)
 
