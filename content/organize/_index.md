@@ -1,6 +1,6 @@
 ---
-title: Exploring intersecting issues of social justice with a transnational lens,
-  focusing on race, caste, class, and gender.
+title: Exploring intersecting issues of justice with a transnational lens, focusing
+  on race, caste, class, and gender.
 description: This is meta description.
 type: menu
 
