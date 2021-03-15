@@ -74,8 +74,8 @@ Domestic Workers Look to Extend Gains, Truthout (2012)
 
 Is the ‘$1.5 Million Maid’ an Isolated Case? New York Times (2012)
 
-The New Domestic Order: Passage of a "Bill of Rights" in New York would be a promising win for a growing movement, The Nation (2009)
+The New Domestic Order: Passage of a "Bill of Rights" in New York would be a promising win for a growing movement, _The Nation_ (2009)
 
-A helping hand for Nepali women new to New York, New York Daily News (2008)
+A helping hand for Nepali women new to New York, _New York Daily News_ (2008)
 
 [For a People Overlooked, a Lens at Last](https://www.nytimes.com/2007/04/29/nyregion/thecity/29stre.html), _The New York Times_ (2007)
