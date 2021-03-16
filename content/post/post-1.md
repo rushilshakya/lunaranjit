@@ -6,7 +6,6 @@ author: Luna Ranjit
 description: This is meta description.
 categories: []
 tags:
-- green
 - tree
 
 ---
