@@ -12,4 +12,4 @@ As a co-founder and executive director of Adhikaar, she guided programs, researc
 
 <br>
 
-Luna has written about and been featured in print and broadcast media on the issues related to workers’ rights, migrant rights, language justice, and racial justice. Her groundbreaking work has been recognized by many community organizations and elected officials. In 2016, she received the Grinnell College Innovator for Social Justice Prize created to support and inspire innovative social change makers throughout the world. <br>
+Luna has written about and been featured in print and broadcast media on the issues related to workers’ rights, migrant rights, language justice, and racial justice. Her groundbreaking work has been recognized by many community-based, national, and international organizations. In 2016, she received the Grinnell College Innovator for Social Justice Prize created to support and inspire innovative social change makers throughout the world. <br>
