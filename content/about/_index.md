@@ -8,7 +8,7 @@ Luna is a writer and organizer, and a former nonprofit executive. She explores i
 
 <br>
 
-Luna has written about and been featured in print and broadcast media on the issues related to workers’ rights, migrant rights, language justice, and racial justice. 
+Luna has written about and been featured in print and broadcast media on the issues related to workers’ rights, migrant rights, language justice, and racial justice. She writes across genres, from OpEds to personal essays and poetry. 
 
 <br>
 
