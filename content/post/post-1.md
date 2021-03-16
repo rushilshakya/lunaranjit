@@ -4,8 +4,7 @@ date: 2021-03-16T06:14:34+00:00
 image: "/images/post/post-6.jpg"
 author: John Doe
 description: This is meta description.
-categories:
-- Green Tree
+categories: []
 tags:
 - green
 - tree
