@@ -1,5 +1,5 @@
 ---
-title: Building infrastructure to help social justice organizations thrive.
+title: Building an ecosystem to help social justice organizations thrive.
 description: This is meta description.
 type: menu
 
