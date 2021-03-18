@@ -25,21 +25,21 @@ type: menu
 
 **Prose**
 
-“[**Sacred Time**](https://rubinmuseum.org/spiral/morning-rituals-from-near-and-far),” Spiral Magazine, Rubin Museum
+“[**Sacred Time**](https://rubinmuseum.org/spiral/morning-rituals-from-near-and-far),” _Spiral Magazine, Rubin Museum_
 
-“[**Long Distance Mourning**](https://www.fiveminutelit.com/five-minutes/long-distance-mourning),” Five Minute Literature
+“[**Long Distance Mourning**](https://www.fiveminutelit.com/five-minutes/long-distance-mourning),” _Five Minute Literature_
 
-"**Families Fractured by Immigration Need Reform**," Women's eNews
+"**Families Fractured by Immigration Need Reform**," _Women's eNews_
 
-"**First Timer: Why I Must Vote As a U.S. Citizen**," Women's eNews
+"**First Timer: Why I Must Vote As a U.S. Citizen**," _Women's eNews_
 
-"**After Reforms, Why Are Nail Salon Workers Not Seeing Swift Justice?**" Truthout
+"**After Reforms, Why Are Nail Salon Workers Not Seeing Swift Justice?**" _Truthout_
 
-“[**Year of Buying Nothing**](https://lunaranjit.medium.com/year-of-buying-nothing-except-the-essentials-c6548ea0122e),” Medium
+“[**Year of Buying Nothing**](https://lunaranjit.medium.com/year-of-buying-nothing-except-the-essentials-c6548ea0122e),” _Medium_
 
-“[**Indebted Immigrant**](https://lunaranjit.medium.com/indebted-immigrant-6356265ed5aa),” Medium
+“[**Indebted Immigrant**](https://lunaranjit.medium.com/indebted-immigrant-6356265ed5aa),” _Medium_
 
-“[**Childfree...by choice**](https://lunaranjit.medium.com/childfree-by-choice-3b8cac3f6e4b),” Medium
+“[**Childfree...by choice**](https://lunaranjit.medium.com/childfree-by-choice-3b8cac3f6e4b),” _Medium_
 
 <br>
 
