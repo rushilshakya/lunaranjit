@@ -50,32 +50,30 @@ Public events, conferences, and classes at various educational institutions, inc
 
 ### **Print**
 
-Nepali Women in Queens Challenge Tradition, Taking Lead With Quake Aid, The New York Times (2015)
+[**Nepali Women in Queens Challenge Tradition, Taking Lead With Quake Aid**](https://www.nytimes.com/2015/09/05/nyregion/nepali-women-in-queens-challenge-tradition-and-take-lead-in-earthquake-response.html), _The New York Times_ (2015)
 
-Editorial: Justice for Nail Salon Workers, The New York Times (2015)
+[**Editorial: Justice for Nail Salon Workers**](https://www.nytimes.com/2015/05/12/opinion/justice-for-nail-salon-workers.html), _The New York Times_ (2015)
 
-How Can You Get an Ethical Manicure? Support Worker Organizing, The Nation (2015)
+[**How Can You Get an Ethical Manicure? Support Worker Organizing**](https://www.thenation.com/article/archive/how-can-you-get-ethical-manicure-support-worker-organizing/), _The Nation_ (2015)
 
-4 Tips on How to Get an Ethical Manicure, Allure Magazine (2015)
+[**4 Tips on How to Get an Ethical Manicure**](https://www.allure.com/story/how-to-get-ethical-manicure)**,** _Allure Magazine_ (2015)
 
-‘This only happened because people organized.’ Nail salon workers speak out after NYT exposé, Fusion.net (2015)
+**‘This only happened because people organized.’ Nail salon workers speak out after NYT exposé**, _Fusion.net_ (2015)
 
-When It Comes to Wage Abuses, It’s Not Just the Nail Salons, The New York Times (2015)
+[**When It Comes to Wage Abuses, It’s Not Just the Nail Salons**](https://www.nytimes.com/2015/05/20/nyregion/when-it-comes-to-wage-abuses-its-not-just-the-nail-salons.html), _The New York Times_ (2015)
 
-Organizing the Unorganizable, Dissent Magazine (2015)
+[**Conversation with 25 Leaders in Action**](https://aapip.org/our-stories/conversation-with-25-leaders-in-action-luna-ranjit), _AAPIP_ (2015)
 
-Conversation with 25 Leaders in Action, AAPIP (2015)
+**Adhikaar: From Knowledge to Action**, _Dream Magazine_ (2014)
 
-Adhikaar: From Knowledge to Action, Dream Magazine (2014)
+[**Nepali immigrants pushing for better working conditions at city's nail salons**](https://www.nydailynews.com/new-york/nepali-immigrants-pushing-better-working-conditions-city-nail-salons-article-1.1058899), _New York Daily News_ (2012)
 
-Nepali immigrants pushing for better working conditions at city's nail salons, New York Daily News (2012)
+[**Domestic Workers Look to Extend Gains**](https://truthout.org/articles/domestic-workers-look-to-extend-gains/), _Truthout_ (2012)
 
-Domestic Workers Look to Extend Gains, Truthout (2012)
+[**Is the ‘$1.5 Million Maid’ an Isolated Case?**](https://india.blogs.nytimes.com/2012/03/28/is-the-1-5-million-maid-an-isolated-case) _New York Times_ (2012)
 
-Is the ‘$1.5 Million Maid’ an Isolated Case? New York Times (2012)
+[**The New Domestic Order: Passage of a "Bill of Rights" in New York would be a promising win for a growing movement**](https://www.thenation.com/article/archive/new-domestic-order/), _The Nation_ (2009)
 
-The New Domestic Order: Passage of a "Bill of Rights" in New York would be a promising win for a growing movement, _The Nation_ (2009)
+[**A helping hand for Nepali women new to New York**](https://www.nydailynews.com/new-york/bronx/helping-hand-nepali-women-new-new-york-article-1.358478), _New York Daily News_ (2008)
 
-A helping hand for Nepali women new to New York, _New York Daily News_ (2008)
-
-[For a People Overlooked, a Lens at Last](https://www.nytimes.com/2007/04/29/nyregion/thecity/29stre.html), _The New York Times_ (2007)
+[**For a People Overlooked, a Lens at Last**](https://www.nytimes.com/2007/04/29/nyregion/thecity/29stre.html), _The New York Times_ (2007)
