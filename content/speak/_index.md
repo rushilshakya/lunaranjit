@@ -46,7 +46,7 @@ Public events, conferences, and classes at various educational institutions, inc
 
 [**The Road to Minimum Wage**](https://www.wnyc.org/story/199041-road-minimum-wage/) (2012), _The Brian Lehrer Show, WNYC_
 
-<br>
+**<br>**
 
 ### **Print**
 
