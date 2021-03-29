@@ -30,7 +30,7 @@ type: menu
 
 Public events, conferences, and classes at various educational institutions, including CUNY, NYU, Grinnell College, Princeton University, Ramapo College, and Cornell University.
 
-<br>
+**<br>**
 
 ### **Radio, Podcasts, Television**
 
