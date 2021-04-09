@@ -52,11 +52,15 @@ Public events, conferences, and classes at various educational institutions, inc
 
 [**Nepali Women in Queens Challenge Tradition, Taking Lead With Quake Aid**](https://www.nytimes.com/2015/09/05/nyregion/nepali-women-in-queens-challenge-tradition-and-take-lead-in-earthquake-response.html), _The New York Times_ (2015)
 
+[**The best way to help victims of Nepal earthquake?**](https://www.pri.org/stories/2015-04-30/best-way-help-victims-nepal-earthquake-raise-money-and-dont-try-travel-there) _The World_ (2015)
+
 [**Editorial: Justice for Nail Salon Workers**](https://www.nytimes.com/2015/05/12/opinion/justice-for-nail-salon-workers.html), _The New York Times_ (2015)
 
 [**How Can You Get an Ethical Manicure? Support Worker Organizing**](https://www.thenation.com/article/archive/how-can-you-get-ethical-manicure-support-worker-organizing/), _The Nation_ (2015)
 
-[**4 Tips on How to Get an Ethical Manicure**](https://www.allure.com/story/how-to-get-ethical-manicure)**,** _Allure Magazine_ (2015)
+[**4 Tips on How to Get an Ethical Manicure**](https://www.allure.com/story/how-to-get-ethical-manicure), _Allure Magazine_ (2015)
+
+[**Five Ways to Help Nail Salon Workers**](https://www.jacobinmag.com/2015/05/five-ways-to-help-nail-salon-workers), _Jacobin Magazine_ (2015)
 
 **‘This only happened because people organized.’ Nail salon workers speak out after NYT exposé**, _Fusion.net_ (2015)
 
