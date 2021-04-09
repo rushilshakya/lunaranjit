@@ -19,7 +19,7 @@ Samata Foundation
 
 Darnal Award for Social Justice
 
-<br>
+<br><br>
 
 **Other Collaborations**
 
