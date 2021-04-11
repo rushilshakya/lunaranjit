@@ -1,6 +1,6 @@
 ---
 title: 'Writer. Educator. Organizer. '
-image: images/lr_headshot.JPG
+image: images/fullsizeoutput_51.jpeg
 description: This is meta description.
 
 ---
