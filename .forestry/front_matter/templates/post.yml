@@ -38,11 +38,11 @@ fields:
   showOnly:
     field: first_published_in
     value: true
-- name: url
+- name: publication_url
   type: text
   config:
     required: false
-  label: url
+  label: publication url
   description: url of the published post (if any)
   showOnly:
     field: first_published_in
