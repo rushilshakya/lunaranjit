@@ -11,6 +11,8 @@ tags:
 - nice
 pinned: true
 first_published_in: true
+publication: Jacobin
+url: https://jacobinmag.com/
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
