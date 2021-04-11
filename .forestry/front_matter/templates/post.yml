@@ -25,3 +25,19 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: pinned
+  type: boolean
+  label: pinned
+  description: turn on to pin the post to the top of landing page
+- name: publication
+  type: text
+  config:
+    required: false
+  label: publication
+  description: publication this post appeared in (if any)
+- name: url
+  type: text
+  config:
+    required: false
+  label: url
+  description: url of the published post (if any)
