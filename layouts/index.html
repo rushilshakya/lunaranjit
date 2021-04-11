@@ -4,8 +4,12 @@
   <div class="container-fluid">
     <div class="row">
       {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
-      {{ range $index,$elements:= $paginator.Pages }}
-      {{ if eq $index 0}}
+			{{ $scratch := newScratch}}
+
+			<!--pinned post-->
+      {{ range first 1 (where .Site.Pages "Params.pinned" true)  }}
+			{{ $scratch.Set "pinnedTitle" .Title}}
+			{{ if eq 1 $paginator.PageNumber }}
       <div class="col-12 mb-4">
         <div class="post">
           <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
@@ -24,7 +28,12 @@
           </div>
         </div>
       </div>
-      {{ else }}
+      {{ end }}
+      {{ end }}
+
+		<!--rest of posts-->
+      {{ range $index,$elements:= $paginator.Pages }}
+      {{ if ne .Title ($scratch.Get "pinnedTitle") }}
       <div class="col-md-6 mb-4">
         <div class="post post-sm">
           <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">

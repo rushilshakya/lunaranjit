@@ -5,6 +5,7 @@ image: "/images/post/post-6.jpg"
 author: Luna Ranjit
 description: This is meta description.
 categories: []
+pinned: true
 tags:
 - tree
 
