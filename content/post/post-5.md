@@ -13,7 +13,7 @@ pinned: true
 first_published_in: true
 publication: Jacobin
 url: https://jacobinmag.com/
-publication_url: https://jacobin.com
+publication_url: https://jacobinmag.com
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
