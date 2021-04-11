@@ -10,11 +10,11 @@ unsafe = true
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 8
-[[menu.main]]
-name = "Category"
-url = "categories/nature/"
 weight = 7
+[[menu.main]]
+name = "Twitter"
+url = "https://twitter.com/LunaRanjit"
+weight = 8
 [[menu.main]]
 name = "Speaking"
 url = "speak"
