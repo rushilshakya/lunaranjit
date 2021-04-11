@@ -3,7 +3,6 @@ author = "John Doe"
 categories = ["inspire"]
 date = 2019-05-12T06:14:34Z
 description = "This is meta description."
-draft = true
 image = "images/post/post-3.jpg"
 tags = ["new", "inspire", "nature"]
 title = "Inspirational Monday: Photographing Pairs in Nature-(copy)"
