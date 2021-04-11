@@ -12,7 +12,6 @@ tags:
 pinned: true
 first_published_in: true
 publication: Jacobin
-url: https://jacobinmag.com/
 publication_url: https://jacobinmag.com
 
 ---
