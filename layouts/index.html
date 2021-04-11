@@ -12,7 +12,7 @@
 			{{ if eq 1 $paginator.PageNumber }}
       <div class="col-12 mb-4">
         <div class="post">
-          <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
+          <img src="{{ .Params.Image | absURL }}" class="img-pinned-title" alt="{{ .Title }}">
           <div class="post-content">
             <div class="post-date">
               <span>{{ .PublishDate.Format "02" }}</span>
@@ -36,7 +36,7 @@
       {{ if ne .Title ($scratch.Get "pinnedTitle") }}
       <div class="col-md-6 mb-4">
         <div class="post post-sm">
-          <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
+          <img src="{{ .Params.Image | absURL }}" class="img-not-pinned" alt="{{ .Title }}">
           <div class="post-content">
             <div class="post-date">
               <span>{{ .PublishDate.Format "02" }}</span>

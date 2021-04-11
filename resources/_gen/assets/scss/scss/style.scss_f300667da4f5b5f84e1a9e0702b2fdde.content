@@ -245,6 +245,18 @@ mark {
   margin: 0 5px;
   padding: 0 5px; }
 
+.img-pinned-title {
+  width: 100%;
+  max-width: 100%;
+  height: 420px;
+  object-fit: cover; }
+
+.img-not-pinned {
+  width: 100%;
+  max-width: 100%;
+  height: 344px;
+  object-fit: cover; }
+
 .navigation {
   position: relative;
   padding: 50px 0; }
