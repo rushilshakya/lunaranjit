@@ -25,10 +25,10 @@ fields:
   type: boolean
   label: pinned
   description: turn on to pin the post to the top of landing page
-- name: published_elsewhere
+- name: first_published_in
   type: boolean
-  label: published elsewhere
-  description: If this post has been published in other media
+  label: first published in
+  description: the first outlet to publish this post
 - name: publication
   type: text
   config:
