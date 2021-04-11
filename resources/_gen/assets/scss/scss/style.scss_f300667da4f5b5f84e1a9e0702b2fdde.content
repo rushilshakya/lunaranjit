@@ -257,6 +257,12 @@ mark {
   height: 344px;
   object-fit: cover; }
 
+.img-logo {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  object-position: top; }
+
 .navigation {
   position: relative;
   padding: 50px 0; }
