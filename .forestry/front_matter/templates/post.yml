@@ -37,6 +37,7 @@ fields:
   description: publication this post appeared in (if any)
   showOnly:
     field: first_published_in
+    value: true
 - name: url
   type: text
   config:
@@ -45,3 +46,4 @@ fields:
   description: url of the published post (if any)
   showOnly:
     field: first_published_in
+    value: true
