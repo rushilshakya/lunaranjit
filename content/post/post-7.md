@@ -6,6 +6,7 @@ author: John Doe
 description: This is meta description.
 categories: []
 tags:
+- personal
 - essay
 
 ---
