@@ -7,9 +7,8 @@ description: This is meta description.
 categories:
 - inspire
 tags:
-- new
-- inspire
-- nature
+- Essay
+- Immigrant
 
 ---
 I can tell my immigration story two different ways. One, I came here with $200 and two suitcases holding almost all of my worldly possessions. Two, I came here with a full scholarship to a rich liberal arts college. Both are true, and have shaped who I am and the way I view the world. Give or take a few details, my story is not that different from that of other immigrants who came to the U.S. for higher education or white collar jobs since the post-Civil Rights era. But immigrant narratives are rife with stories with the first arc — we came here with nothing, worked hard, and succeeded, look at us now!
