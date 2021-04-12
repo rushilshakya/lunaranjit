@@ -8,7 +8,7 @@ image = ""
 pinned = false
 publication = ""
 publication_url = ""
-tags = []
+tags = ["Poetry", "Workers"]
 title = "they come in pairs"
 
 +++
