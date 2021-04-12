@@ -7,7 +7,7 @@ image = "/images/theycomeinpairs.jpeg"
 pinned = false
 publication = ""
 publication_url = ""
-tags = ["Poetry", "Workers"]
+tags = ["Poetry", "Worker"]
 title = "they come in pairs"
 
 +++
