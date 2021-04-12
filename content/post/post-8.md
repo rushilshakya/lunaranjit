@@ -2,7 +2,7 @@
 title: Two Arcs of My Immigration Story
 date: 2019-05-12T12:14:34.000+06:00
 image: "/images/img_7288.jpeg"
-author: John Doe
+author: Luna Ranjit
 description: This is meta description.
 categories: []
 tags:

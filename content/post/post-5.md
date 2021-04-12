@@ -2,7 +2,7 @@
 title: Voting in honor of my father
 date: 2020-11-03T06:14:34+00:00
 image: "/images/ivoted.jpeg"
-author: John Doe
+author: Luna Ranjit
 description: This is meta description.
 categories: []
 tags:

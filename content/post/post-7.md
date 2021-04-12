@@ -2,7 +2,7 @@
 title: निर्णय निस्सन्तान जीवन यात्राको
 date: 2020-09-02T06:14:34+00:00
 image: "/images/childfree.jpeg"
-author: John Doe
+author: Luna Ranjit
 description: This is meta description.
 categories: []
 tags:
