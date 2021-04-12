@@ -8,8 +8,8 @@ categories: []
 tags:
 - essay
 - immigrant
-pinned: true
-first_published_in: true
+pinned: false
+first_published_in: false
 publication: Jacobin
 publication_url: https://jacobinmag.com
 
