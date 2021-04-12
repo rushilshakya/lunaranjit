@@ -47,5 +47,12 @@ fields:
   showOnly:
     field: first_published_in
     value: true
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+  default: Luna Ranjit
 pages:
+- content/post/more-than-mangoes.md
 - content/post/they-come-in-pairs.md
