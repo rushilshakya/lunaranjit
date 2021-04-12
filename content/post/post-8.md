@@ -1,49 +1,23 @@
 ---
-title: "Inspirational Monday: Photographing Pairs in Nature"
-date: 2019-05-12T12:14:34+06:00
-image: "images/post/post-3.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["inspire"]
-tags: ["new", "inspire", "nature"]
-draft: false
+title: Two Arcs of My Immigration Story
+date: 2019-05-12T12:14:34.000+06:00
+image: "/images/img_7288.jpeg"
+author: John Doe
+description: This is meta description.
+categories:
+- inspire
+tags:
+- new
+- inspire
+- nature
+
 ---
+I can tell my immigration story two different ways. One, I came here with $200 and two suitcases holding almost all of my worldly possessions. Two, I came here with a full scholarship to a rich liberal arts college. Both are true, and have shaped who I am and the way I view the world. Give or take a few details, my story is not that different from that of other immigrants who came to the U.S. for higher education or white collar jobs since the post-Civil Rights era. But immigrant narratives are rife with stories with the first arc — we came here with nothing, worked hard, and succeeded, look at us now!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Of course, most of us came here with very little. We started out with few worldly possessions, only what we could cram into our suitcases. We struggled to find our footing, away from family and friends. But we were among the most privileged. Even for those of us who did not come from affluence, we had enough to pay our fare or at least the social capital to be able to borrow against future income potential. That $200 and a one-way ticket almost wiped out my parents’ entire life savings. Yet, my family could afford that airfare, even if just one-way — a luxury still not available to most of the people back home.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Hard work definitely played a big role in my success. But, the scholarship gave me a flying start (regardless of whether you look at it as charity to save a Third World Brown girl or a more sinister agenda to undermine the Civil Rights movement by creating a buffer community). It gave me freedom and helped me save up even on a nonprofit starter salary — a luxury not available to majority of my friends from the U.S. who are still paying off their education debt.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+My time in the U.S. hasn’t been all milk and honey. For more than a decade, I was constantly running an obstacle course set up by the U.S. immigration system. I spent countless number of hours gathering documents to prove my worth and tens of thousands of dollars to pay the lawyers and the U.S. government. Things fell through, and my life almost fell apart. A last minute contact with a wonderful immigration attorney saved the day, thanks to the social and financial capital I had been able to build — a luxury not available to millions of immigrants.
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+So, if I tell my story as coming to the U.S. with $200 and two suitcases, I would be lying, even if every single word is factually correct.
