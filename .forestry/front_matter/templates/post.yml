@@ -48,4 +48,5 @@ fields:
     field: first_published_in
     value: true
 pages:
+- content/post/more-than-mangoes.md
 - content/post/they-come-in-pairs.md
