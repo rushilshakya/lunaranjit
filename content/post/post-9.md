@@ -8,7 +8,7 @@ categories:
 - Green Tree
 tags:
 - poetry
-- Kathmandu
+- home
 
 ---
 Looking down from the perch in Swayambhu  
