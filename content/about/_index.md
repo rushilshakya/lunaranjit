@@ -1,5 +1,5 @@
 ---
-title: 'Writer. Educator. Organizer. '
+title: Writer. Organizer. Educator.
 image: images/lr_headshot_2017.jpeg
 description: This is meta description.
 
