@@ -44,7 +44,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "Luna Ranjit"
 contact_form_action = "#"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Built & maintained by Akoka Inc."
 description = "This is meta description"
 logo = "images/lr-logo.svg"
 search = true
