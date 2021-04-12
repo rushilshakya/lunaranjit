@@ -4,8 +4,7 @@ date: 2019-05-12T12:14:34.000+06:00
 image: "/images/img_7288.jpeg"
 author: John Doe
 description: This is meta description.
-categories:
-- inspire
+categories: []
 tags:
 - Essay
 - Immigrant
