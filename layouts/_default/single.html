@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <section>
-  <div class="container-fluid">
+  <div class="container-fluid-lr">
     <div class="post">
       <img src="{{ .Params.Image | absURL }}" class="img-pinned-title" alt="{{ .Title }}">
       <div class="post-content">
@@ -19,7 +19,6 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <h1 class="mb-4">{{ .Title }}</h1>
         <div class="content">{{.Content}}</div>
 
         <div class="text-center mt-5">
@@ -31,8 +30,14 @@
             </li>
             {{ end }}
           </ul>
-          <span><i class="ti-user mr-2"></i><a
-              href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.author }}</a></span>
+          <span>
+						<i class="ti-user mr-2"></i>
+						{{ if eq .Params.author "Luna Ranjit" }}
+						<a href="/about">{{ .Params.author }}</a>
+						{{ else }}
+						<a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.author }}</a>
+						{{ end }}
+					</span>
         </div>
       </div>
     </div>

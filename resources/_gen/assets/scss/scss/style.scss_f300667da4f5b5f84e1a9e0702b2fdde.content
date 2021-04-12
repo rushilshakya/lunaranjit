@@ -269,6 +269,11 @@ mark {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap; }
 
+.container-fluid-lr {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto; }
+
 .navigation {
   position: relative;
   padding: 50px 0; }
