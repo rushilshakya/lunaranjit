@@ -4,7 +4,7 @@ date = 2020-04-27T18:15:00Z
 description = ""
 first_published_in = false
 image = "/images/morethanmangoes.jpeg"
-author: Luna Ranjit
+author = Luna Ranjit
 pinned = false
 publication = ""
 publication_url = ""

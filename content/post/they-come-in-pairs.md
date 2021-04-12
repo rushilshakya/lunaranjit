@@ -4,7 +4,7 @@ date = 2021-04-11T18:15:00Z
 description = ""
 first_published_in = false
 image = "/images/theycomeinpairs.jpeg"
-author: Luna Ranjit
+author = Luna Ranjit
 pinned = false
 publication = ""
 publication_url = ""
