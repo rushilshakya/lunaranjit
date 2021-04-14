@@ -16,7 +16,7 @@ Workers' Rights
 
 Immigrant Rights
 
-* Temporary Protected Status (TPS)
+* New York State Drivers' License for All
+* Pathway to Citizenship for all immigrants
+* Temporary Protected Status (TPS) for Nepali nationals
 * Language Justice
-
-Abolish Caste
