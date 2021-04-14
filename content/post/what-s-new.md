@@ -8,7 +8,7 @@ image = "/images/post/post-6.jpg"
 pinned = true
 publication = ""
 publication_url = ""
-tags = []
+tags = ["Update"]
 title = "What's New?"
 
 +++
