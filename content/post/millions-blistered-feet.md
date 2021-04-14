@@ -1,7 +1,7 @@
 ---
 title: Million Blistered Feet
 date: 2021-03-16T06:14:34.000+00:00
-image: "/images/post/post-6.jpg"
+image: "/images/img_5723.jpeg"
 author: Luna Ranjit
 description: This is meta description.
 categories: []
