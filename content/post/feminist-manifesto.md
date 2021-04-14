@@ -3,7 +3,6 @@ author = "Luna Ranjit"
 categories = []
 date = 2021-03-07T18:15:00Z
 description = ""
-draft = true
 first_published_in = false
 image = "/images/feministmanifesto.png"
 pinned = false
