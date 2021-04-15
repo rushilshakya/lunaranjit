@@ -8,29 +8,25 @@ title = "Luna Ranjit"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 7
-[[menu.main]]
-name = "Twitter"
-url = "https://twitter.com/LunaRanjit"
-weight = 8
+name = "Consulting"
+url = "consult"
+weight = 5
 [[menu.main]]
 name = "Speaking"
 url = "speak"
-weight = 5
-[[menu.main]]
-name = "Organizing"
-url = "organize"
 weight = 4
+[[menu.main]]
+name = "Twitter"
+url = "https://twitter.com/LunaRanjit"
+weight = 7
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 6
 [[menu.main]]
 name = "Writing"
 url = "write"
 weight = 3
-[[menu.main]]
-name = "Consulting"
-url = "consult"
-weight = 6
 [[menu.main]]
 name = "About"
 url = "about"
