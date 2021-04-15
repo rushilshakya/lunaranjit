@@ -37,7 +37,7 @@ type: menu
 
 "[**First Timer: Why I Must Vote As a U.S. Citizen**](https://womensenews.org/2016/08/first-timer-why-i-must-vote-as-a-u-s-citizen/)," _Women's eNews_
 
-"**After Reforms, Why Are Nail Salon Workers Not Seeing Swift Justice?**" _Truthout_
+"[**After Reforms, Why Are Nail Salon Workers Not Seeing Swift Justice?**](https://truthout.org/articles/after-reforms-why-are-nail-salon-workers-not-seeing-swift-justice/)" _Truthout_
 
 “[**Year of Buying Nothing**](https://lunaranjit.medium.com/year-of-buying-nothing-except-the-essentials-c6548ea0122e),” _Medium_
 
