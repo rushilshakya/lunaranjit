@@ -278,6 +278,9 @@ mark {
   background-color: white;
   color: dodgerblue; }
 
+.bg-aliceblue {
+  background-color: aliceblue; }
+
 .navigation {
   position: relative;
   padding: 50px 0; }
