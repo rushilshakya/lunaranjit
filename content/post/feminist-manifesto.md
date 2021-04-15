@@ -8,7 +8,7 @@ image = "/images/feministmanifesto2.png"
 pinned = false
 publication = ""
 publication_url = ""
-tags = []
+tags = ["Poetry"]
 title = "feminist manifesto"
 
 +++
