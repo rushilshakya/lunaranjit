@@ -20,4 +20,8 @@ Under her leadership, Adhikaar served and organized thousands of immigrant worke
 
 <br>
 
-Her groundbreaking work has been recognized by many community-based, national, and international organizations. In 2016, she received the Grinnell College Innovator for Social Justice Prize created to support and inspire innovative social change makers throughout the world. <br>
+Her groundbreaking work has been recognized by many community-based, national, and international organizations. In 2016, she received the Grinnell College Innovator for Social Justice Prize created to support and inspire innovative social change makers throughout the world. 
+
+<br>
+
+photo credit: [Anokha Venugopal](https://www.instagram.com/photonokha/)
