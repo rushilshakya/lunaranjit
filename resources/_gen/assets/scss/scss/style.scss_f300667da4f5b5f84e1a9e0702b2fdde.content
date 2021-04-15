@@ -443,8 +443,8 @@ mark {
       .post-sm .post-title {
         font-size: 1.2rem; } }
 .author-img {
-  height: 100px;
-  width: 100px;
+  height: 250px;
+  width: 250px;
   border-radius: 50%;
   object-fit: cover;
   transform: translateY(50px); }
