@@ -3,7 +3,6 @@ author = "Luna Ranjit"
 categories = []
 date = 2019-12-23T18:15:00Z
 description = ""
-draft = true
 first_published_in = false
 image = "/images/nobuying.jpeg"
 pinned = false
