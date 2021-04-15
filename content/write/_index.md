@@ -29,6 +29,10 @@ type: menu
 
 “[**Long Distance Mourning**](https://www.fiveminutelit.com/five-minutes/long-distance-mourning),” _Five Minute Literature_
 
+"[**Power To Redefine Family**](https://www.taketheleadwomen.com/stories/redefine-family-w9ndf),"_Take The Lead_
+
+"[**Growing Literary Roots in Queens**](https://www.newtownliterary.org/single-post/from-a-newtown-literary-contributor-luna-ranjit)," _Newtown Literary Blog_
+
 "**Families Fractured by Immigration Need Reform**," _Women's eNews_
 
 "**First Timer: Why I Must Vote As a U.S. Citizen**," _Women's eNews_
