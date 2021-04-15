@@ -54,7 +54,9 @@ fields:
   label: author
   default: Luna Ranjit
 pages:
+- content/post/compassion-in-the-time-of-covid-19.md
 - content/post/feminist-manifesto.md
 - content/post/more-than-mangoes.md
 - content/post/they-come-in-pairs.md
 - content/post/what-s-new.md
+- content/post/year-of-buying-nothing.md

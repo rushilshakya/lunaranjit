@@ -3,13 +3,12 @@ author = "Luna Ranjit"
 categories = []
 date = 2021-03-07T18:15:00Z
 description = ""
-draft = true
 first_published_in = false
-image = "/images/feministmanifesto.png"
+image = "/images/feministmanifesto2.png"
 pinned = false
 publication = ""
 publication_url = ""
-tags = []
+tags = ["Poetry"]
 title = "feminist manifesto"
 
 +++
