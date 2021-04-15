@@ -24,4 +24,4 @@ Her groundbreaking work has been recognized by many community-based, national, a
 
 <br>
 
-photo credit: [Anokha Venugopal](https://www.instagram.com/photonokha/)
+(photo credit: [Anokha Venugopal](https://www.instagram.com/photonokha/))
