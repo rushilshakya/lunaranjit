@@ -33,9 +33,9 @@ type: menu
 
 "[**Growing Literary Roots in Queens**](https://www.newtownliterary.org/single-post/from-a-newtown-literary-contributor-luna-ranjit)," _Newtown Literary Blog_
 
-"**Families Fractured by Immigration Need Reform**," _Women's eNews_
+"[**Families Fractured by Immigration Need Reform**](https://womensenews.org/2016/06/families-fractured-by-immigration-need-reform-regrouping-more-than-ever/)," _Women's eNews_
 
-"**First Timer: Why I Must Vote As a U.S. Citizen**," _Women's eNews_
+"[**First Timer: Why I Must Vote As a U.S. Citizen**](https://womensenews.org/2016/08/first-timer-why-i-must-vote-as-a-u-s-citizen/)," _Women's eNews_
 
 "**After Reforms, Why Are Nail Salon Workers Not Seeing Swift Justice?**" _Truthout_
 
