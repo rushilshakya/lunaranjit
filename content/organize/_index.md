@@ -5,7 +5,9 @@ description: This is meta description.
 type: menu
 
 ---
-## **Issues & Campaigns**
+Luna has organized alongside immigrant workers
+
+#### **Issues & Campaigns**
 
 Workers' Rights
 
