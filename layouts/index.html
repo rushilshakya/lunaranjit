@@ -3,13 +3,12 @@
 <section class="section pt-0">
   <div class="container-fluid">
     <div class="row-lr">
-      {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
-			{{ $scratch := newScratch}}
-
 			<!--pinned post-->
+			{{ if eq false ($.Scratch.Get "pinnedValue") }}
       {{ range first 1 (where .Site.Pages "Params.pinned" true)  }}
-			{{ $scratch.Set "pinnedTitle" .Title}}
-			{{ if eq 1 $paginator.PageNumber }}
+			{{ $.Scratch.Set "pinnedTitle" .Title}}
+			{{ $.Scratch.Set "pinnedValue" true }}
+
       <div class="col-12 mb-4">
         <div class="post">
           <img src="{{ .Params.Image | absURL }}" class="img-pinned-title" alt="{{ .Title }}">
@@ -31,9 +30,10 @@
       {{ end }}
       {{ end }}
 
+      {{ $paginator := .Paginate (where (where site.RegularPages "Type" "in" site.Params.mainSections) ".Title" "!="  ($.Scratch.Get "pinnedTitle") ) }}
+
 		<!--rest of posts-->
       {{ range $index,$elements:= $paginator.Pages }}
-      {{ if ne .Title ($scratch.Get "pinnedTitle") }}
       <div class="col-md-6 mb-4">
         <div class="post post-sm">
           <img src="{{ .Params.Image | absURL }}" class="img-not-pinned" alt="{{ .Title }}">
@@ -52,7 +52,6 @@
           </div>
         </div>
       </div>
-      {{ end }}
       {{ end }}
       <div class="col-12">
 
