@@ -20,6 +20,10 @@ name = "Twitter"
 url = "https://twitter.com/LunaRanjit"
 weight = 7
 [[menu.main]]
+name = "Medium"
+url = "https://lunaranjit.medium.com"
+weight = 8
+[[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 6
