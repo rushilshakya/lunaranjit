@@ -2,7 +2,7 @@ baseURL = "/"
 disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
-paginate = "11"
+paginate = "4"
 theme = "persian-hugo"
 title = "Luna Ranjit"
 [markup.goldmark.renderer]

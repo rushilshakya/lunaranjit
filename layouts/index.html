@@ -4,10 +4,10 @@
   <div class="container-fluid">
     <div class="row-lr">
 			<!--pinned post-->
-			{{ if eq false ($.Scratch.Get "pinnedValue") }}
+			{{ if not ($.Scratch.Get "pinnedValue") }}
+			{{ $.Scratch.Set "pinnedValue" true }}
       {{ range first 1 (where .Site.Pages "Params.pinned" true)  }}
 			{{ $.Scratch.Set "pinnedTitle" .Title}}
-			{{ $.Scratch.Set "pinnedValue" true }}
 
       <div class="col-12 mb-4">
         <div class="post">
