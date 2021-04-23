@@ -1,5 +1,5 @@
 ---
-title: 'Writer. '
+title: ''
 image: images/lr_headshot_2017.jpeg
 description: This is meta description.
 
