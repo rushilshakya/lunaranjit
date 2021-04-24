@@ -23,7 +23,7 @@ Darnal Award for Social Justice
 
 **Other Collaborations**
 
-**Sona**, documentary by Subina Shrestha (consulting producer, 2021)
+**Sona**, documentary by Subina Shrestha (impact producer, 2021)
 
 **A Letter Home** by Meera Nair in partnership with Adhikaar & Kundiman (2015)
 
