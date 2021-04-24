@@ -29,4 +29,4 @@ Darnal Award for Social Justice
 
 **Journey to the Ocean**, a play by Aya Ogawa in partnership with Adhikaar & Foundry Theater (2011)
 
-**Letters to Our Mothers**, a joint production Adhikaar, Queens Council on the Arts and Asian American Writers’ Workshop (curator, 2010)
+**Letters to Our Mothers**, a joint production of Adhikaar, Queens Council on the Arts and Asian American Writers’ Workshop (curator, 2010)
