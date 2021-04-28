@@ -1,6 +1,6 @@
 ---
 title: ''
-image: images/lr_headshot_2017.jpeg
+image: images/lr_silvertone.jpeg
 description: This is meta description.
 
 ---
