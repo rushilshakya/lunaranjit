@@ -1,5 +1,5 @@
 ---
-title: Building an ecosystem to help social justice organizations and initiatives
+title: Helping build an ecosystem to help social justice organizations and initiatives
   to thrive.
 description: This is meta description.
 type: menu
