@@ -3,4 +3,4 @@ title: 'Say Hello! '
 description: ''
 
 ---
-Please send me a quick note if you’d like to get in touch about my writing, speaking, or consulting projects.
+Find me on Twitter @LunaRanjit <br> You can [**sign up**](http://tinyletter.com/LunaRanjit) for my sporadic email updates or send me a quick note below.
