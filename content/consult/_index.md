@@ -17,11 +17,9 @@ Adhikaar for Human Rights and Social Justice
 
 Samata Foundation
 
-Darnal Award for Social Justice
-
 <br><br>
 
-**Other Collaborations**
+**Artistic Collaborations**
 
 **Sona**, documentary by Subina Shrestha (impact producer, 2021)
 
