@@ -43,7 +43,7 @@ weight = 1
 home = ["HTML", "RSS", "json"]
 [params]
 author = "Luna Ranjit"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/f/xknkorvv"
 copyright = "Built & maintained by Akoka Inc."
 description = "This is meta description"
 logo = "images/lr-logo.svg"
