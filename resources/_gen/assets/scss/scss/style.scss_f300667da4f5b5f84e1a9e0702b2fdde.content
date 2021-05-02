@@ -281,6 +281,9 @@ mark {
 .bg-aliceblue {
   background-color: aliceblue; }
 
+.form-here {
+  display: none; }
+
 .navigation {
   position: relative;
   padding: 50px 0; }
