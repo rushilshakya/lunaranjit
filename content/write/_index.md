@@ -11,6 +11,10 @@ type: menu
 
 **Poetry**
 
+"children pray for gray days/collateral damage #1," _Chestnut Review (forthcoming)_
+
+"Rain Dance," "Instructions for the Second Shift," _Bronx Memoir Project Volume V Anthology (forthcoming)_
+
 “[**Memory**](https://aaww.org/memory/),” _The Margins (A World Without Cages), Asian American Writers Workshop_
 
 “[**Home**](https://lunaranjit.medium.com/home-a3b07c72dfe5),” “**Waiting to Exhale**,” “[**Hole in my Heart**](https://lunaranjit.medium.com/hole-in-my-heart-583814afc8da),” “[**Taste of Freedom**](https://lunaranjit.medium.com/taste-of-freedom-22a4356c074b),” _Newtown Literary_
@@ -24,6 +28,8 @@ type: menu
 <br>
 
 **Prose**
+
+"[**निरीह छैनन् महिला श्रमिक**](https://jhannaya.nayapatrikadaily.com/news-details/1350/2021-05-01)," Jhan Naya
 
 “[**Sacred Time**](https://rubinmuseum.org/spiral/morning-rituals-from-near-and-far),” _Spiral Magazine, Rubin Museum_
 
