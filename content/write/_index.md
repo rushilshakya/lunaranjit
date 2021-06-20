@@ -29,7 +29,7 @@ type: menu
 
 **Prose**
 
-"[**निरीह छैनन् महिला श्रमिक**](https://jhannaya.nayapatrikadaily.com/news-details/1350/2021-05-01)," Jhan Naya
+"[**निरीह छैनन् महिला श्रमिक**](https://jhannaya.nayapatrikadaily.com/news-details/1350/2021-05-01)," _Jhan Naya_
 
 “[**Sacred Time**](https://rubinmuseum.org/spiral/morning-rituals-from-near-and-far),” _Spiral Magazine, Rubin Museum_
 
