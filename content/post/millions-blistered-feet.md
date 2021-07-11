@@ -9,6 +9,7 @@ pinned: true
 tags:
 - Essay
 - Pandemic
+draft: true
 
 ---
 A year ago, countries around the world went into various levels of lockdown in their effort to keep the virus away. In Nepal, the borders, including airports, were closed with just a day’s notice. Public transportation was suspended. Chaos ensued as the government and the people tried to make sense of what next. I was in Kathmandu at that time, with a ticket to leave in two weeks’ time. With no option to travel, I stayed indoors adjusting my life to the “new normal” along with the rest of the country and the world.
