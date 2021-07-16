@@ -29,6 +29,8 @@ type: menu
 
 **Prose**
 
+"[**सीमान्तकरणको वास्तविकता र योग्यतातन्त्रको मिथक**](https://jhannaya.nayapatrikadaily.com/news-details/1406/2021-06-26)," _Jhan Naya_
+
 "[**निरीह छैनन् महिला श्रमिक**](https://jhannaya.nayapatrikadaily.com/news-details/1350/2021-05-01)," _Jhan Naya_
 
 “[**Sacred Time**](https://rubinmuseum.org/spiral/morning-rituals-from-near-and-far),” _Spiral Magazine, Rubin Museum_
