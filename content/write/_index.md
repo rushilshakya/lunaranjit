@@ -11,9 +11,9 @@ type: menu
 
 **Poetry**
 
-"children pray for gray days/collateral damage #1," _Chestnut Review (forthcoming)_
+"[**children pray for gray days/collateral damage #1**](https://chestnutreview.com/wp-content/uploads/CR3-1.pdf)," _Chestnut Review (3:1)_
 
-"Rain Dance," "Instructions for the Second Shift," _Bronx Memoir Project Volume V Anthology (forthcoming)_
+"**Rain Dance**," "**Instructions for the Second Shift**," _Bronx Memoir Project Volume V Anthology_ 
 
 “[**Memory**](https://aaww.org/memory/),” _The Margins (A World Without Cages), Asian American Writers Workshop_
 
