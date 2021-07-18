@@ -16,8 +16,8 @@ Earlier this year, I was writing a lot, publishing sometimes, and had even appli
 
 As my social media feeds got flooded with requests for hospital beds, oxygen, plasma, and updates about family members infected and dead in Nepal and across South Asia, sitting down to write felt like a guilty indulgence.
 
-I joined an informal group pooling resources and coordinating to do what we can to mitigate the disaster. I shelved my plans to excavate my past - I have spent the last few days digging through my old contact lists to find contacts and ideas to find whatever support was possible to shore up, from vaccine advocacy to raising funds for people who lost their livelihoods due to repeated lockdowns.
+I joined an informal group pooling resources and coordinating to do what we can to mitigate the disaster. I shelved my plans to excavate my past and write about it. Instead, I spent days digging through my old contact lists to find people and ideas to leverage whatever support possible, from vaccine advocacy to funds for isolation kits and food for people who lost their livelihoods due to repeated lockdowns.
 
-With the turn of the season, things are starting to look better. I got the writing grant. I had a three new poems published in English and two essays published in Nepali. I am brushing off old writing and working on new pieces. I am finalizing the writing workshop. Slowly, I am moving back towards my writing dreams again. 
+With the turn of the season, things are starting to look better. I got the writing grant. I had a three new poems published in English and two essays published in Nepali. I am brushing off old writing and working on new pieces. I am finalizing the writing workshop. It still does not feel fully okay but slowly, I am moving back towards my writing dreams. 
 
 Please check out the [Writing page](https://www.lunaranjit.com/write/) and my [Medium page](https://lunaranjit.medium.com/) for new writings. Thank you for reading! 
