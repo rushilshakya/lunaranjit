@@ -18,6 +18,6 @@ As my social media feeds got flooded with requests for hospital beds, oxygen, pl
 
 I joined an informal group pooling resources and coordinating to do what we can to mitigate the disaster. I shelved my plans to excavate my past and write about it. Instead, I spent days digging through my old contact lists to find people and ideas to leverage whatever support possible, from vaccine advocacy to funds for isolation kits and food for people who lost their livelihoods due to repeated lockdowns.
 
-With the turn of the season, things are starting to look better. I got the writing grant. I had a three new poems published in English and two essays published in Nepali. I am brushing off old writing and working on new pieces. I am finalizing the writing workshop. It still does not feel fully okay but slowly, I am moving back towards my writing dreams. 
+With the turn of the season, things are starting to look better. I got the writing grant. I had a three new poems published in English and two essays published in Nepali in the last three months. I am brushing off old writing and working on new pieces. I am finalizing the writing workshop. It still does not feel fully okay but slowly, I am moving back towards my writing dreams. 
 
 Please check out the [Writing page](https://www.lunaranjit.com/write/) and my [Medium page](https://lunaranjit.medium.com/) for new writings. Thank you for reading! 
