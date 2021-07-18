@@ -12,7 +12,7 @@ tags = ["Update"]
 title = "What's New?"
 
 +++
-Earlier this year, I was writing a lot, publishing sometimes, and had even applied for a writing grant. I was translating  a book of poetry. I was developing a writing workshop. I had finally felt ready to fully accept my "writer" persona and let go of my "organizer" past. Friends and family members were getting vaccinated, at least the first dose, and the pandemic seemed to be getting under control. I was planning to launch this new website to share the new me. Well, as they say about best-laid plans...
+Earlier this year, I was writing a lot, publishing sometimes. I was translating  a book of poetry. I was developing a writing workshop. I had even applied for a writing grant, finally ready to fully accept my "writer" persona and let go of my "organizer" past. Friends and family members were getting vaccinated, at least the first dose, and the pandemic seemed to be getting under control. I was planning to launch this new website to share the new me. Well, as they say about best-laid plans...
 
 As my social media feeds got flooded with requests for hospital beds, oxygen, plasma, and updates about family members infected and dead in Nepal and across South Asia, sitting down to write felt like a guilty indulgence.
 
