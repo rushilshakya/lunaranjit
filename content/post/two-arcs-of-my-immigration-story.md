@@ -1,7 +1,7 @@
 ---
 title: Two Arcs of My Immigration Story
 date: 2020-12-24T18:15:00.000+00:00
-image: "/images/img_8065.jpeg"
+image: images/img_8065.jpeg
 author: Luna Ranjit
 description: This is meta description.
 categories: []
