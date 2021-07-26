@@ -1,7 +1,7 @@
 ---
 title: the sprawl
-date: 2021-02-24T06:14:00+00:00
-image: "/images/thesprawl.jpeg"
+date: 2021-02-24T06:14:00.000+00:00
+image: images/thesprawl.jpeg
 author: Luna Ranjit
 description: This is meta description.
 categories:
