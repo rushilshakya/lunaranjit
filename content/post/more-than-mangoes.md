@@ -1,10 +1,10 @@
 +++
+author = "Luna Ranjit"
 categories = []
 date = 2020-04-27T18:15:00Z
 description = ""
 first_published_in = false
-image = "/images/morethanmangoes.jpeg"
-author = "Luna Ranjit"
+image = "images/morethanmangoes.jpeg"
 pinned = false
 publication = ""
 publication_url = ""
