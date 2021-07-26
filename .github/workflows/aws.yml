@@ -1,0 +1,11 @@
+name: AWS
+on: push
+
+jobs:
+  print_variables:
+    runs-on: ubuntu-latest
+    steps:
+      - name: double curly
+        run: |
+          echo ${{ github.workflow }}
+          echo "${{ github.workflow }}"
