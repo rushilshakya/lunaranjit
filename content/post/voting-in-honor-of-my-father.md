@@ -1,7 +1,7 @@
 ---
 title: Voting in honor of my father
-date: 2020-11-03T06:14:34+00:00
-image: "/images/ivoted.jpeg"
+date: 2020-11-03T06:14:34.000+00:00
+image: images/ivoted.jpeg
 author: Luna Ranjit
 description: This is meta description.
 categories: []
