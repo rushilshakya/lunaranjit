@@ -68,3 +68,16 @@ link = "plugins/search/search.js"
 [params.preloader]
 enable = true
 preloader = ""
+
+# optimize image size
+[imaging]
+resampleFilter = "box"
+quality = 75
+hint = "photo"
+anchor = "smart"
+bgColor = "#ffffff"
+[imaging.exif]
+includeFields = ""
+excludeFields = ""
+disableDate = true
+disableLatLong = true
