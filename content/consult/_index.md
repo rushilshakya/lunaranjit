@@ -9,13 +9,7 @@ type: menu
 
 Provide strategic communications and programmatic advice and research support to social justice organizations, think tanks, and funding agencies in the US and South Asia, particularly in early stages of development and during transition.
 
-**_Partners include:_**
-
-Foundation for a Just Society
-
-Adhikaar for Human Rights and Social Justice
-
-Samata Foundation
+**_Partners include:_** Foundation for a Just Society (New York), Adhikaar for Human Rights and Social Justice (New York), Samata Foundation (Kathmandu)
 
 <br><br>
 
