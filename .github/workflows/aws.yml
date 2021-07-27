@@ -3,7 +3,7 @@ name: publish to AWS
 on:
   push:
     branches:
-      - develop # Set a branch to deploy
+      - main # Set a branch to deploy
 
 jobs:
   deploy:
@@ -44,6 +44,7 @@ jobs:
 
       - name: Deploy to aws
         uses: reggionick/s3-deploy@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           folder: ./public
           bucket: ${{ secrets.S3_BUCKET }}
