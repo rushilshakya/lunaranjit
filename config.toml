@@ -87,8 +87,8 @@ disableLatLong = true
 order = [".jpg$", ".gif$"]
 [[deployment.targets]]
 name = "mydeployment"
-URL = "s3://boli-mag.com?region=us-east-1"
-cloudFrontDistributionID = "E2DD03QQV50TQH"
+URL = "s3://amazon-cloudfront-secure-static-site-s3bucketroot-1r1our83wpu6e?region=us-east-1"
+cloudFrontDistributionID = "E1MF9E9U3OY2FL"
 [[deployment.matchers]]
 pattern = "^.+\\.(js|css|svg|ttf)$"
 cacheControl = "max-age=31536000, no-transform, public"
