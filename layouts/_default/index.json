@@ -2,6 +2,6 @@
 {{- range where site.RegularPages "Section" "post" -}}
 {{ $date:= .PublishDate.Format "02"}}
 {{ $month:= .PublishDate.Format "Jan"}}
-  {{- $.Scratch.Add "index" (dict "title" .Title "date" $date "month" $month "tags" .Params.tags "image" .Params.image "categories" .Params.categories "contents" .Plain "permalink" .Permalink) -}}
+  {{- $.Scratch.Add "index" (dict "title" .Title "date" $date "month" $month "tags" .Params.tags "image" (partial `functions/imageproc` .Params.image) "categories" .Params.categories "contents" .Plain "permalink" .Permalink) -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
