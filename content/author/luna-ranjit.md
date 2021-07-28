@@ -1,6 +1,6 @@
 ---
 title: Luna Ranjit
-image: ''
+image: ""
 email: luna.ranjit@gmail.com
 social:
 - icon: ti-twitter-alt
