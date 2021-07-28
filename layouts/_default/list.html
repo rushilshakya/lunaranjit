@@ -16,7 +16,7 @@
       {{ if eq $index 0}}
       <div class="col-12 mb-4">
         <div class="post">
-          <img src="{{ .Params.Image | absURL }}" class="img-pinned-title" alt="{{ .Title }}">
+          <img src="{{ partial `functions/imageproc` .Params.Image }}" class="img-pinned-title" alt="{{ .Title }}">
           <div class="post-content">
             <!--<div class="post-date">
               <span>{{ .PublishDate.Format "02" }}</span>
@@ -34,7 +34,7 @@
       {{ else }}
       <div class="col-md-6 mb-4">
         <div class="post post-sm">
-          <img src="{{ .Params.Image | absURL }}" class="img-not-pinned" alt="{{ .Title }}">
+          <img src="{{ partial `functions/imageproc` .Params.Image }}" class="img-not-pinned" alt="{{ .Title }}">
           <div class="post-content">
             <!--<div class="post-date">
               <span>{{ .PublishDate.Format "02" }}</span>

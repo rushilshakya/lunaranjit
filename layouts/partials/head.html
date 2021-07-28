@@ -28,11 +28,11 @@ AUTHOR WEBSITE: https://themefisher.com
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `images/fav-icon.svg` | absURL }}" type="image/x-icon">
-  <link rel="icon" href="{{ `images/fav-icon.svg` | absURL }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ partial `functions/imageproc` `images/fav-icon.svg` }}" type="image/x-icon">
+  <link rel="icon" href="{{ partial `functions/imageproc` `images/fav-icon.svg` }}" type="image/x-icon">
 
   {{ with .Params.Image }}
-  <meta property="og:image" content="{{ . | absURL }}" />
+  <meta property="og:image" content="{{ partial `functions/imageproc` . }}" />
   {{ end }}
   {{ template "_internal/opengraph.html" . }}
 

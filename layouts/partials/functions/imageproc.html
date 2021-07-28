@@ -1,0 +1,11 @@
+<!-- 
+  Partial to get image from assets, optimize it, and return Permalink
+-->
+{{ $image := resources.Get . }}
+{{ $include := slice "jpeg" "png" }}
+
+{{ if in $include $image.MediaType.SubType }}
+	{{ $image = $image.Resize "600x" }}
+{{ end }}
+
+{{ return $image.Permalink }}

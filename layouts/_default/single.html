@@ -3,7 +3,7 @@
 <section>
   <div class="container-fluid-lr">
     <div class="post">
-      <img src="{{ .Params.Image | absURL }}" class="img-pinned-title" alt="{{ .Title }}">
+      <img src="{{ partial `functions/imageproc` .Params.Image }}" class="img-pinned-title" alt="{{ .Title }}">
       <div class="post-content">
         <!--<div class="post-date">
           <span>{{ .PublishDate.Format "02" }}</span>

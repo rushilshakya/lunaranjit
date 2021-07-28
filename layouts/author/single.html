@@ -7,7 +7,7 @@
 				<div class="text-center">
 					<figure>
 						{{ if .Params.Image }}
-						<img class="rounded-circle img-fluid mb-4" style="height:150px;width:150px;object-fit: cover;" src="{{.Params.Image | absURL }}">
+						<img class="rounded-circle img-fluid mb-4" style="height:150px;width:150px;object-fit: cover;" src="{{ partial `functions/imageproc` .Params.Image }}">
 						{{else if .Params.Email}}
 						<img class="rounded-circle img-fluid mb-4" style="height:150px;width:150px;object-fit: cover;" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=150&pg&d=identicon">
 						{{ end }}
@@ -40,7 +40,7 @@
 			{{ range where .Site.RegularPages "Params.author" .Title }}
 			<div class="col-md-6 mb-4">
 				<div class="post post-sm">
-					<img src="{{ .Params.Image | absURL }}" class="img-not-pinned" alt="{{ .Title }}">
+					<img src="{{ partial `functions/imageproc` .Params.Image }}" class="img-not-pinned" alt="{{ .Title }}">
 					<div class="post-content">
 						<h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 						<ul class="list-inline post-meta">
