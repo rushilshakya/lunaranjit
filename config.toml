@@ -5,12 +5,48 @@ languageName = "En"
 paginate = "10"
 theme = "persian-hugo"
 title = "Luna Ranjit"
+[deployment]
+order = [".jpg$", ".gif$"]
+[[deployment.matchers]]
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+pattern = "^.+\\.(js|css|svg|ttf)$"
+[[deployment.matchers]]
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+pattern = "^.+\\.(png|jpg)$"
+[[deployment.matchers]]
+contentType = "application/xml"
+gzip = true
+pattern = "^sitemap\\.xml$"
+[[deployment.matchers]]
+gzip = true
+pattern = "^.+\\.(html|xml|json)$"
+[[deployment.targets]]
+URL = "s3://amazon-cloudfront-secure-static-site-s3bucketroot-1r1our83wpu6e?region=us-east-1"
+cloudFrontDistributionID = "E1MF9E9U3OY2FL"
+name = "mydeployment"
+[imaging]
+anchor = "smart"
+bgColor = "#ffffff"
+hint = "photo"
+quality = 75
+resampleFilter = "box"
+[imaging.exif]
+disableDate = true
+disableLatLong = true
+excludeFields = ""
+includeFields = ""
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Consulting"
+name = "Collaborating"
 url = "consult"
 weight = 5
+[[menu.main]]
+name = "Medium"
+url = "https://lunaranjit.medium.com"
+weight = 8
 [[menu.main]]
 name = "Speaking"
 url = "speak"
@@ -19,10 +55,6 @@ weight = 4
 name = "Twitter"
 url = "https://twitter.com/LunaRanjit"
 weight = 7
-[[menu.main]]
-name = "Medium"
-url = "https://lunaranjit.medium.com"
-weight = 8
 [[menu.main]]
 name = "Contact"
 url = "contact"
@@ -68,39 +100,3 @@ link = "plugins/search/search.js"
 [params.preloader]
 enable = true
 preloader = ""
-
-# optimize image size
-[imaging]
-resampleFilter = "box"
-quality = 75
-hint = "photo"
-anchor = "smart"
-bgColor = "#ffffff"
-[imaging.exif]
-includeFields = ""
-excludeFields = ""
-disableDate = true
-disableLatLong = true
-
-# to deploy to s3 using aws cli
-[deployment]
-order = [".jpg$", ".gif$"]
-[[deployment.targets]]
-name = "mydeployment"
-URL = "s3://amazon-cloudfront-secure-static-site-s3bucketroot-1r1our83wpu6e?region=us-east-1"
-cloudFrontDistributionID = "E1MF9E9U3OY2FL"
-[[deployment.matchers]]
-pattern = "^.+\\.(js|css|svg|ttf)$"
-cacheControl = "max-age=31536000, no-transform, public"
-gzip = true
-[[deployment.matchers]]
-pattern = "^.+\\.(png|jpg)$"
-cacheControl = "max-age=31536000, no-transform, public"
-gzip = false
-[[deployment.matchers]]
-pattern = "^sitemap\\.xml$"
-contentType = "application/xml"
-gzip = true
-[[deployment.matchers]]
-pattern = "^.+\\.(html|xml|json)$"
-gzip = true
