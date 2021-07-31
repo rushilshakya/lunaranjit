@@ -1,6 +1,6 @@
 ---
 title: ''
-image: "images/lr_headshot_2017.jpeg"
+image: images/lr_headshot_2017.jpeg
 description: This is meta description.
 
 ---
@@ -8,7 +8,7 @@ Luna is a writer and a former organizer and nonprofit executive. She explores in
 
 <br>
 
-She writes across and between boundaries of personal and political, state and society, US and Nepal, poetry and prose. She has written about and been featured in print and broadcast media on the issues related to workers’ rights, migrant rights, language justice, and racial justice.
+She writes across and between boundaries of personal and political, state and society, US and Nepal, poetry and prose. She has written about and been featured in print and broadcast media on the issues related to workers’ rights, migrant rights, language justice, and racial justice. She is a former Ms. Foundation OpEd Project fellow, and a recipient of 2021 Queens Art Fund grant for "Alien," an immigrant narrative, told in poetry and prose.
 
 <br>
 
