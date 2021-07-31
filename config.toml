@@ -41,7 +41,7 @@ includeFields = ""
 unsafe = true
 [[menu.main]]
 name = "Collaborating"
-url = "consult"
+url = "collaborate"
 weight = 5
 [[menu.main]]
 name = "Medium"
