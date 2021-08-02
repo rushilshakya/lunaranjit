@@ -1,24 +1,15 @@
 ---
-title: Helping build an ecosystem to help social justice organizations and initiatives
-  thrive.
+title: Taking time for long-term reflection and writing projects.
 description: This is meta description.
 type: menu
 
 ---
-**Strategy Consulting**
+**Alien**
 
-Provide strategic communications and programmatic advice and research support to social justice organizations, think tanks, and funding agencies in the US and South Asia, particularly in early stages of development and during transition.
-
-**_Partners include:_** Foundation for a Just Society (New York), Adhikaar for Human Rights and Social Justice (New York), Samata Foundation (Kathmandu)
+Alien is an immigrant narrative, told in poetry and prose, about the fragile balance between building a new life in an adopted land and memories of homes left behind - stories encapsulating joy, pain, hope and insecurity of uprooted/displaced lives. Alien is the legal term for someone who is “not a citizen or national of the United States,” and it was also my precarious immigration status for almost twenty years.
 
 <br><br>
 
-**Artistic Collaborations**
+**Translation**
 
-**Sona**, documentary by Subina Shrestha (impact producer, 2021)
-
-**A Letter Home** by Meera Nair in partnership with Adhikaar & Kundiman (2015)
-
-**Journey to the Ocean**, a play by Aya Ogawa in partnership with Adhikaar & Foundry Theater (2011)
-
-**Letters to Our Mothers**, a joint production of Adhikaar, Queens Council on the Arts and Asian American Writers’ Workshop (curator, 2010)
+Writing literary works into and out of English, Nepal Bhasa, and Khas Nepali. 
