@@ -12,4 +12,4 @@ Alien is an immigrant narrative, told in poetry and prose, about the fragile bal
 
 **Translation**
 
-Writing literary works into and out of English, Nepal Bhasa, and Khas Nepali. 
+Creating literary work into and out of English, Nepal Bhasa, and Khas Nepali. 
