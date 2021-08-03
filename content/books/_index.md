@@ -16,7 +16,7 @@ Alien is an immigrant narrative, told in poetry and prose, about the fragile bal
 
 **Collateral Damage**
 
-Collection of poems about the collateral damage of US imperialism and capitalism.
+Collection of poems about the collateral damage of capitalism and US imperialism.
 
 [children pray for gray days/collateral damage #1](https://chestnutreview.com/children-pray-on-gray-days/) (published in Chestnut Review 3:1)
 
