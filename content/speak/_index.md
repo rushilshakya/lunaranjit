@@ -1,14 +1,14 @@
 ---
-title: Grabbing the mic and passing it on.
+title: grabbing the mic and passing it on
 description: This is meta description.
 type: menu
 
 ---
-## **Selected speaking engagements**
+## **selected speaking engagements**
 
 <br>
 
-### **Public Events**
+### **public events**
 
 **महिलाका आँखामा दलित महिलाका संघर्ष** (2020), _Martin Chautari & Dalit Reader_
 
@@ -32,7 +32,7 @@ Public events, conferences, and classes at various educational institutions, inc
 
 **<br>**
 
-### **Radio, Podcasts, Television**
+### **radio, podcasts, television**
 
 **Essential Work, Mutual Aid & Nepal** (2021), _Time to Say Goodbye_
 
@@ -48,7 +48,7 @@ Public events, conferences, and classes at various educational institutions, inc
 
 **<br>**
 
-### **Print**
+### **print**
 
 [**Nepali Women in Queens Challenge Tradition, Taking Lead With Quake Aid**](https://www.nytimes.com/2015/09/05/nyregion/nepali-women-in-queens-challenge-tradition-and-take-lead-in-earthquake-response.html), _The New York Times_ (2015)
 
@@ -68,7 +68,7 @@ Public events, conferences, and classes at various educational institutions, inc
 
 [**Conversation with 25 Leaders in Action**](https://aapip.org/our-stories/conversation-with-25-leaders-in-action-luna-ranjit), _AAPIP_ (2015)
 
-**Adhikaar: From Knowledge to Action**, _Dream Magazine_ (2014)
+[**Adhikaar: From Knowledge to Action**](https://mydreamsmagazine.com/article/adhikaar-from-knowledge-to-action/), _Dream Magazine_ (2014)
 
 [**Nepali immigrants pushing for better working conditions at city's nail salons**](https://www.nydailynews.com/new-york/nepali-immigrants-pushing-better-working-conditions-city-nail-salons-article-1.1058899), _New York Daily News_ (2012)
 
