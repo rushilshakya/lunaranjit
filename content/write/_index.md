@@ -1,15 +1,15 @@
 ---
-title: Writing across and between boundaries of personal and political, state and
-  society, United States and Nepal, poetry and prose.
+title: writing across and between boundaries of personal and political, state and
+  society, United States and Nepal, poetry and prose
 description: This is meta description.
 type: menu
 
 ---
-## Selected Writing
+## selected writing
 
 <br>
 
-**Poetry**
+**poetry**
 
 "[**children pray for gray days/collateral damage #1**](https://chestnutreview.com/wp-content/uploads/CR3-1.pdf)," _Chestnut Review (3:1)_
 
@@ -27,7 +27,7 @@ type: menu
 
 <br>
 
-**Prose**
+**prose**
 
 "[**नेवा: समुदायभित्रै छन् रूपा, करूणा र दीपाहरू**](https://www.setopati.com/opinion/243673)," Setopati
 
