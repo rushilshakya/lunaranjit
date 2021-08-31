@@ -40,6 +40,10 @@ includeFields = ""
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "Collaborating"
+url = "collaborate"
+weight = 10
+[[menu.main]]
 name = "Alien"
 url = "books"
 weight = 9
