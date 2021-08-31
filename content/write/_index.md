@@ -57,4 +57,4 @@ type: menu
 
 <br>
 
-Read additional poetry and prose on Medium ([**lunaranjit.medium.com**]()). To receive sporadic news and updates, please [**share your email**](http://tinyletter.com/LunaRanjit).
+Please [**share your email**](http://tinyletter.com/LunaRanjit) if you would like to be receive my sporadic email updates about new writing and musings. 
