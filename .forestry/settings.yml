@@ -40,8 +40,8 @@ sections:
   path: content/speak/_index.md
   label: Speaking
 - type: document
-  path: content/consult/_index.md
-  label: Consulting
+  path: content/collaborate/_index.md
+  label: Collaborating
 - type: document
   path: content/contact/_index.md
   label: Contact
