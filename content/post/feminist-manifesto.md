@@ -8,6 +8,7 @@ image = "images/feministmanifesto2.png"
 pinned = false
 publication = ""
 publication_url = ""
+summary = "not interested in feminism/seeped in racist thought/nor to fight for women’s rights/to become a corporate bot"
 tags = ["Poetry"]
 title = "feminist manifesto"
 
