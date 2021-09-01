@@ -46,8 +46,8 @@ sections:
   path: content/contact/_index.md
   label: Contact
 - type: document
-  path: content/privacy-policy/_index.md
-  label: Privacy Policy
+  path: content/justwrite/_index.md
+  label: Just Write
 - type: heading
   label: Configuration
 - type: directory
