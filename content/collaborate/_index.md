@@ -1,11 +1,11 @@
 ---
-title: Helping build an ecosystem to help social justice organizations and initiatives
-  thrive.
+title: helping build an ecosystem to help social justice organizations and initiatives
+  thrive
 description: This is meta description.
 type: menu
 
 ---
-**Strategy Consulting**
+**strategy consulting**
 
 Provide strategic communications and programmatic advice and research support to social justice organizations, think tanks, and funding agencies in the US and South Asia, particularly in early stages of development and during transition.
 
@@ -13,7 +13,7 @@ Provide strategic communications and programmatic advice and research support to
 
 <br><br>
 
-**Artistic Collaborations**
+**artistic collaborations**
 
 **Sona**, documentary by Subina Shrestha (impact producer, 2021)
 
