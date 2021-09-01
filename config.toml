@@ -5,6 +5,7 @@ languageName = "En"
 paginate = "10"
 theme = "persian-hugo"
 title = "Luna Ranjit"
+summaryLength = 40
 [deployment]
 order = [".jpg$", ".gif$"]
 [[deployment.matchers]]
