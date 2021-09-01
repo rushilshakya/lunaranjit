@@ -57,4 +57,4 @@ type: menu
 
 <br>
 
-Please [**share your email**](http://tinyletter.com/LunaRanjit) if you would like to be receive my sporadic email updates about new writing and musings. 
+Please [**share your email**](http://tinyletter.com/LunaRanjit) if you would like to receive my sporadic email updates about new writing and musings.
