@@ -53,6 +53,16 @@ fields:
     required: false
   label: author
   default: Luna Ranjit
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: summary
+  description: Brief summary to override default summary appearing on home page
 pages:
 - content/post/compassion-in-the-time-of-covid-19.md
 - content/post/death-by-a-thousand-cuts-newa-community-the-caste-system.md
