@@ -9,7 +9,7 @@ pinned = false
 publication = " Bronx Memoir Project Volume V "
 publication_url = ""
 summary = "inside, the family of three start/ their annual rain dance of/ carefully choreographed steps"
-tags = []
+tags = ["Poetry"]
 title = "Rain Dance"
 
 +++
