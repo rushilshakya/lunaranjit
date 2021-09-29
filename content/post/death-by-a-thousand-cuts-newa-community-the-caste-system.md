@@ -8,7 +8,8 @@ image = "images/green_luna_moth_on_lichencovered_rock_actias_luna.jpeg"
 pinned = false
 publication = ""
 publication_url = ""
-tags = ["Anti-Caste", "Essay"]
+summary = ""
+tags = ["Essay", "Anti-Caste"]
 title = "Death By A Thousand Cuts: Newa Community & The Caste System"
 
 +++
