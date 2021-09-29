@@ -8,6 +8,7 @@ image = "images/nobuying.jpeg"
 pinned = false
 publication = ""
 publication_url = ""
+summary = ""
 tags = ["Essay"]
 title = "Year of Buying Nothing"
 
@@ -39,3 +40,5 @@ I am fortunate to have a support system of close friends in the neighborhood who
 I know that I have difficulty parting with things (and people). So, I am not planning to Konmari anytime soon. I also do not like that minimalism itself has become commodified — however, that is a conversation for another time. For now, I am doing what I can — not bringing things into my apartment, and my life, that I will later not be able to let go.
 
 **_(This is the first part of a series of reflections on my year of trying to become more conscious about consumption and look critically at the consumerism culture.)_**
+
+[**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/)
