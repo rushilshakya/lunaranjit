@@ -9,7 +9,7 @@ pinned = false
 publication = ""
 publication_url = ""
 summary = ""
-tags = ["Essay", "Anti-Caste"]
+tags = ["Essay", "Caste Abolition"]
 title = "Death By A Thousand Cuts: Newa Community & The Caste System"
 
 +++
