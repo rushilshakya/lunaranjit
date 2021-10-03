@@ -3,7 +3,6 @@ author = "Luna Ranjit"
 categories = []
 date = 2020-06-30T18:15:00Z
 description = ""
-draft = true
 first_published_in = false
 image = "images/ba_waving.jpeg"
 pinned = false
