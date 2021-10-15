@@ -14,8 +14,6 @@ Alien is an immigrant narrative, told in poetry and prose, about the fragile bal
 
 [Two arcs of my immigration story](https://lunaranjit.com/post/two-arcs-of-my-immigration-story/)
 
-[More than Mangoes](https://lunaranjit.com/post/more-than-mangoes/)
-
 <br><br>
 
 **collateral damage**
@@ -29,3 +27,5 @@ Collection of poems and explanatory commas about the collateral damage of capita
 **translation**
 
 Creating literary work into and out of English, Nepal Bhasa, and Khas Nepali.
+
+We Lived Happily During The War by Ilya Kaminsky, translated into Khas Nepali (published in JhanNaya, 2001) 
