@@ -12,6 +12,8 @@ type: menu
 
 Alien is an immigrant narrative, told in poetry and prose, about the fragile balance between building a new life in an adopted land and memories of homes left behind - stories encapsulating joy, pain, hope and insecurity of uprooted/displaced lives. Alien is the legal term for someone who is “not a citizen or national of the United States,” and it was also my precarious immigration status for almost twenty years.
 
+[home](https://lunaranjit.com/post/home)
+
 [Two arcs of my immigration story](https://lunaranjit.com/post/two-arcs-of-my-immigration-story/)
 
 <br><br>
@@ -28,4 +30,4 @@ Collection of poems and explanatory commas about the collateral damage of capita
 
 Creating literary work into and out of English, Nepal Bhasa, and Khas Nepali.
 
-We Lived Happily During The War by Ilya Kaminsky, translated into Khas Nepali (published in JhanNaya, 2001) 
+We Lived Happily During The War by Ilya Kaminsky, translated into Khas Nepali (published in JhanNaya, 2001)
