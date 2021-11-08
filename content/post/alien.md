@@ -21,4 +21,4 @@ Luna Ranjit
 November 30, 2021  
 8pm EST
 
-Please [**click here **](https://docs.google.com/forms/d/e/1FAIpQLSetp7GuL60M92gPgzNwo5djTiMMkw7U0KkbbqKykl80CVOv4Q/viewform)to RSVP & get event link 
+Please [__**click here **__](https://docs.google.com/forms/d/e/1FAIpQLSetp7GuL60M92gPgzNwo5djTiMMkw7U0KkbbqKykl80CVOv4Q/viewform)to RSVP & get event link
