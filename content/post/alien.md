@@ -22,3 +22,5 @@ November 30, 2021
 8pm EST
 
 Please [__**click here **__](https://docs.google.com/forms/d/e/1FAIpQLSetp7GuL60M92gPgzNwo5djTiMMkw7U0KkbbqKykl80CVOv4Q/viewform)to RSVP & get event link
+
+This event is made possible (in part) by the Queens Council on the Arts with public funds from the New York City Department of Cultural Affairs in partnership with the City Council.
