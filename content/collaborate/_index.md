@@ -15,6 +15,8 @@ Provide strategic communications and programmatic advice and research support to
 
 **artistic collaborations**
 
+**Reclaiming Our Tongues**, a public reading by Nepali writers with indigenous roots (in partnership with Rajan Maharjan, supported by NYC Artists Corps Grant 2021)
+
 **Sona**, documentary by Subina Shrestha (impact producer, 2021)
 
 **A Letter Home** by Meera Nair in partnership with Adhikaar & Kundiman (2015)
