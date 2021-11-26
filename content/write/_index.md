@@ -21,8 +21,6 @@ type: menu
 
 “[**प्रतिरोध बोल्छ मेरो उपनिवेशित जिब्रो**](https://ekantipur.com/koseli/2020/11/28/160653241034546305.html),” _Koseli_
 
-"[**All Things Old Is New Again**]( "https://lunaranjit.medium.com/all-things-old-is-new-again-4aa2e8539961")," _Medium_
-
 "[**they come in pairs**](https://lunaranjit.medium.com/they-come-in-pairs-d04896a7d7f6)," _Medium_
 
 <br>
