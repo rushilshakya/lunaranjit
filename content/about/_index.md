@@ -4,7 +4,7 @@ image: images/lr_headshot_2017.jpeg
 description: This is meta description.
 
 ---
-Luna is a writer and a former organizer and nonprofit executive. She explores intersecting issues of social justice with a transnational lens, focusing on race, caste, class, and gender. She currently lives between NYC and Kathmandu.
+Luna is a writer and an organizer. She explores intersecting issues of social justice with a transnational lens, focusing on race, caste, class, and gender. She currently based in Kathmandu.
 
 <br>
 
@@ -20,7 +20,7 @@ Under her leadership, Adhikaar served and organized thousands of immigrant worke
 
 <br>
 
-Her groundbreaking work has been recognized by many community-based, national, and international organizations. In 2016, she received the Grinnell College Innovator for Social Justice Prize created to support and inspire innovative social change makers throughout the world.
+Her groundbreaking work has been recognized by many community-based, national, and international organizations. In 2016, she received the [Grinnell Prize](https://www.grinnell.edu/about/grinnellprize) that supports and inspires innovative social change makers throughout the world, and she was included in [City of Women](https://www.newyorker.com/books/page-turner/city-of-women), an alternative New York City subway map recognizing women's contributions.
 
 <br>
 
