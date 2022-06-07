@@ -11,6 +11,8 @@ type: menu
 
 **poetry**
 
+"**Shadows**," _Pratik Magazine_ (XVII:4)
+
 "[**children pray for gray days/collateral damage #1**](https://chestnutreview.com/wp-content/uploads/CR3-1.pdf)," _Chestnut Review (3:1)_
 
 "[**Rain Dance**](https://lunaranjit.com/post/rain-dance/)," "**Instructions for the Second Shift**," _Bronx Memoir Project Volume V Anthology_
