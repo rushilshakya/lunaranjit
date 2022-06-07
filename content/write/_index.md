@@ -57,4 +57,6 @@ type: menu
 
 <br>
 
+For more writing, please visit: [https://lunaranjit.medium.com/](https://lunaranjit.medium.com/ "https://lunaranjit.medium.com/")
+
 Please [**share your email**](http://tinyletter.com/LunaRanjit) if you would like to receive my sporadic email updates about new writing and musings.
