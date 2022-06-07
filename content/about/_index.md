@@ -12,11 +12,7 @@ She writes across and between boundaries of personal and political, state and so
 
 <br>
 
-As a co-founder and executive director of Adhikaar, she guided programs, research, policy advocacy, and partnerships, building visibility and power for the emerging Nepali-speaking immigrant community for more than a decade. She currently plays a supporting role connecting issues and individuals committed to social justice.
-
-<br>
-
-Under her leadership, Adhikaar served and organized thousands of immigrant workers, who raised their voices to change laws, including the Temporary Protected Status (TPS) after the 2015 earthquake in Nepal, the NY State Domestic Workers Bill of Rights, and the International Convention on Domestic Workers. As a co-founder of the New York Healthy Nail Salons Coalition, she helped lead the way for the sweeping changes to improve working conditions in the nail salon industry. She also served on the advisory board of the National Healthy Nail and Beauty Salons Alliance.
+Luna is a co-founder and former executive director of [Adhikaar](www.adhikaar.org), where she guided programs, research, policy advocacy, and partnerships, building visibility and power for the emerging Nepali-speaking immigrant community for more than a decade. Under her leadership, Adhikaar served and organized thousands of immigrant workers, who raised their voices to change laws, including the Temporary Protected Status (TPS) after the 2015 earthquake in Nepal, the NY State Domestic Workers Bill of Rights, and the International Convention on Domestic Workers. As a co-founder of the New York Healthy Nail Salons Coalition, she helped lead the way for the sweeping changes to improve working conditions in the nail salon industry. She also served on the advisory board of the National Healthy Nail and Beauty Salons Alliance.
 
 <br>
 
